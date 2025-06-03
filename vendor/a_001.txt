@@ -1,0 +1,13 @@
+ *** plugin jpgplgin.dll|jpg is not available, ignored. ***
+ *** failed to open archive arc.sar, ignored.  ***
+ command [cdfadeout] is not supported yet!!
+ command [killmenu] is not supported yet!!
+ command [killmenu] is not supported yet!!
+ *** can't find file [uoncur.bmp] ***
+ *** can't find file [uoffcur.bmp] ***
+ *** can't find file [cursor1.bmp] ***
+INFO: Key pressed :  scancode 44 = Space, keycode 0x00000020 = Space  modifiers: (none)
+INFO: get 40 or 44
+ONScripter-Jh version 0.7.6 (20181218, 2.96)
+Display: 640 x 480 (32 bpp)
+Audio: 44100 Hz 16 bit stereo
