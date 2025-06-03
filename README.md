@@ -1,5 +1,5 @@
 # onscripter-jh-gameshell
-About [WIP] My ONScripter-jh ‌ClockworkPi GameShell port
+[WIP] My ONScripter-jh ‌ClockworkPi GameShell port
 
 ## References  
 * onscripter_jh_sdl2_fork-master_v11.tar.gz
