@@ -75,7 +75,7 @@ make install
 cd ..
 
 # SDL2
-#./configure -prefix=/home/cpi/jh --disable-shared --enable-static
+#already exists, apt install libsdl2-dev, not need ./configure -prefix=/home/cpi/jh --disable-shared --enable-static
 
 # SDL2_image
 tar xzf SDL2_image-2.0.5.tar.gz
